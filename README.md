@@ -17,7 +17,7 @@ Here is the ordering I placed if you are curious (Highest --> Lowest):
 
 4          Bronx Science          
 
-5          Townshend              
+5          Townsend              
 
 6          La Guardia <3          
 
