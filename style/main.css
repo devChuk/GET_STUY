@@ -385,13 +385,14 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
-  .tile.tile-super .tile-inner {
+  /*.tile.tile-super .tile-inner {
     background: #fff url('../img/ihtfp.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
         font-size: 10px; } }
+        */
 
 @-webkit-keyframes appear {
   0% {
