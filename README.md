@@ -35,5 +35,4 @@ Here is the ordering I placed if you are curious (Highest --> Lowest):
 Schools do not represent their students. It is the students that represent their schools.
 
 Oh and special thanks to:
-Danny Qiu for centering the logos (I LOVE YOU)
-Hannah Yen for telling me to make this
+Danny Qiu for centering the logos (I LOVE YOU) and Hannah Yen for telling me to make this.
